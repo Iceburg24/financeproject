@@ -1,0 +1,9 @@
+{
+	"name": "Drishtii-DF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c887ff7b-4d27-4646-8835-e3169d35f15c",
+		"tenantId": "63e50e9c-6362-4d22-9d1a-862203614c80"
+	}
+}
