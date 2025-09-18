@@ -1,0 +1,9 @@
+{
+	"name": "DrishtiDF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d46d639-20d5-4988-a0fd-d23f6d23d236",
+		"tenantId": "63e50e9c-6362-4d22-9d1a-862203614c80"
+	}
+}
